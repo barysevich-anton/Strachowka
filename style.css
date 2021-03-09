@@ -1,0 +1,96 @@
+@import url("css/header.css");
+@import url("css/first_section.css");
+@import url("css/second_section.css");
+@import url("css/three_section.css");
+@import url("css/four_section.css");
+@import url("css/five_section.css");
+@import url("css/six_section.css");
+@import url("css/seven_section.css");
+@import url("css/eight_section.css");
+@import url("css/nine_section.css");
+@import url("css/footer.css");
+@import url("css/media_for%20mobile.css");
+@import url("css/main_menu_mobile.css");
+
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.active-fulltime {
+    background: #823d88;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.active {
+    background: #823d88;
+
+}
+
+.unactive {
+    background: transparent;
+}
+
+.active_2 {
+    background: #823d88;
+    color: #fff;
+}
+
+.unactive_2 {
+    background: transparent;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+.active_1 {
+    background: #823d88;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.unactive_1 {
+    background: transparent;
+    padding: 7px 10px;
+}
+.active_3 {
+  background: #823d88;
+  color: #fff;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.unactive_3 {
+  background: transparent;
+    color:#823d88;
+}
+.unactive_4 {
+  background: transparent;
+    color:black;
+}
+.active_5 {
+  background: #823d88;
+  color: #fff;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.unactive_5 {
+  background: transparent;
+    color: black;
+}
+.hidden {
+  display: none
+}

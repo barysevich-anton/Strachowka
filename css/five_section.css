@@ -1,0 +1,66 @@
+.five{
+    background: url(../image/img/background/back4.png) no-repeat;
+    background-size: 100% 100%;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.five_title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.five_section_bot{
+    width: 100%;
+    align-items: center;
+}
+.five_section_bot_forms{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.five_section_bot_forms_button {
+    width: 30%;
+    text-align: center;
+    background-color: #823d88;
+    padding: 15px 0;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+    align-items: center;
+}
+.five_section_bot_forms_left{
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right:30px;
+    padding-top: 20px;
+}
+.five_section_bot_forms_left input{
+    width: 45%;
+    padding: 15px 10px;
+    border-radius: 15px;
+
+}
+.five_section_bot_footer{
+    display: flex;
+    width: 100%;
+    padding-top: 20px;
+}
+.five_section_bot_footer input{
+    margin-top: 2px;
+}
+.five_section_bot_footer p{
+    margin: 0;
+    font-size: 12px;
+}
+.five_section_bot_footer span{
+    text-decoration: underline;
+    color: #823d88;
+    cursor: pointer;
+}
+

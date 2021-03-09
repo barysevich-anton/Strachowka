@@ -1,0 +1,52 @@
+.nine{
+    background-color: #39223b;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.nine_section_top{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.nine_section_top span{
+    color:#823d88;
+}
+.nine_section_bot{
+    width: 100%;
+    align-items: center;
+}
+.nine_section_bot_forms{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.nine_section_bot_forms_button {
+    width: 30%;
+    text-align: center;
+    background-color: #823d88;
+    padding: 15px 0;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+    align-items: center;
+}
+.nine_section_bot_forms_left{
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right:30px;
+    padding-top: 20px;
+}
+.nine_section_bot_forms_left input{
+    width: 45%;
+    padding: 15px 10px;
+    border-radius: 15px;
+
+}
+
